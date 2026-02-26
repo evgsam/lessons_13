@@ -7,4 +7,5 @@ __pycache__/
 *$py.class
 *.so
 .Python
-memory_dumps
+test_files
+
